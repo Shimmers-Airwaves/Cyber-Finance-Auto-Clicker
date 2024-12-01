@@ -1,2 +1,1 @@
-# Cyber-Finance-Auto-Clicker
-Cyber-Finance-Auto-Clicker
+# Gemz-Auto-Clicker-Powerful
